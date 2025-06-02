@@ -1,0 +1,13 @@
+html {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    font-size: 5vh;
+}
+body {
+    background-image: linear-gradient(0deg, rgb(239, 114, 255), rgb(154, 60, 241));
+}
+.titles {
+    max-width: 46vh;
+}
